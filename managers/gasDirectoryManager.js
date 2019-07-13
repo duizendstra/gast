@@ -72,7 +72,6 @@ function gasDirectoryManager(par) {
         getExternalIds: getExternalIds,
         getGoogleAccounts: getGoogleAccounts,
         createUser: createUser,
-        usersAreEqual: usersAreEqual,
         updateUser: updateUser,
         supendUser: supendUser
     });
